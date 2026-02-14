@@ -1,0 +1,2 @@
+# amanig-web
+Public
